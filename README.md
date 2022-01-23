@@ -1,6 +1,7 @@
 # MLReproducibilityChallenge2021
 
 In this repository we have tried to replicate the experimental results of the paper:
+
 📄 Unifying Vision-and-Language Tasks via Text Generation.  
 Cho, J., Lei, J., Tan, H., & Bansal, M. (2021). Unifying Vision-and-Language Tasks via Text Generation. ICML.
 
@@ -19,6 +20,7 @@ These downstream tasks are in below.
 6- En-De Machine Translation (Multi30k)
 
 We have created have below notebooks in Google Colab.
+
 COCO Captioning [https://colab.research.google.com/drive/14j36ZHWHUDqHYmLOoltX5Ytu-XrCpcZx?usp=sharing]
 VCR  [https://colab.research.google.com/drive/1iIMhh_aZ3hGUUVTWS9eYZ5UPVYSPeYqs?usp=sharing]
 VQA [https://colab.research.google.com/drive/13PGig2dE32Frmfpyc63fyCbx3V_nGjD7?usp=sharing]
